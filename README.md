@@ -1,4 +1,4 @@
-Name : Priya K S
+Name : Priya
 Age : 30
 DOB : 24/09/1992
 Education : MTech
